@@ -24,8 +24,8 @@ Eine App die Familienalltag vereinfacht: KI-Elternberatung, Events, Verschenkmar
 | CI Pipelines | 4 (Analyze, Deploy, Keep-Alive, AI-Check) |
 | Status | 🟢 Live Beta |
 
-[![Flutter Analyze](https://github.com/fatihbucak56-beep/Parentpeak/actions/workflows/flutter-analyze.yml/badge.svg)](https://github.com/fatihbucak56-beep/Parentpeak/actions/workflows/flutter-analyze.yml)
-[![Deploy Web](https://github.com/fatihbucak56-beep/Parentpeak/actions/workflows/deploy-web-pages.yml/badge.svg)](https://parentpeak.de)
+[![Flutter Analyze](https://github.com/arambucak/Parentpeak/actions/workflows/flutter-analyze.yml/badge.svg)](https://github.com/arambucak/Parentpeak/actions/workflows/flutter-analyze.yml)
+[![Deploy Web](https://github.com/arambucak/Parentpeak/actions/workflows/deploy-web-pages.yml/badge.svg)](https://parentpeak.de)
 
 ---
 
@@ -47,8 +47,8 @@ Hosting     Render (API) · GitHub Pages (Web)
 
 | Projekt | Beschreibung | Links |
 |---------|-------------|-------|
-| **[Parentpeak](https://github.com/fatihbucak56-beep/Parentpeak)** | Flutter Family App — Full Stack | [Web-App](https://parentpeak.de) |
-| **[parentpeak-website](https://github.com/fatihbucak56-beep/parentpeak-website)** | Landing Page & Marketing | [parentpeak.com](https://parentpeak.com) |
+| **[Parentpeak](https://github.com/arambucak/Parentpeak)** | Flutter Family App — Full Stack | [Web-App](https://parentpeak.de) |
+| **[parentpeak-website](https://github.com/arambucak/parentpeak-website)** | Landing Page & Marketing | [parentpeak.com](https://parentpeak.com) |
 
 ---
 
