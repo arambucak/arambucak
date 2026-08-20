@@ -2,7 +2,7 @@
   <img src="https://parentpeak.com/assets/app-icon.png" width="80" alt="Parentpeak">
 </div>
 
-# Hey, ich bin Fatih 👋
+# Hey, ich bin F. Aram Bucak 👋
 
 **Product Engineer** — ich baue Software die Menschen im Alltag hilft.
 
