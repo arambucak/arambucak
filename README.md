@@ -1,71 +1,98 @@
-<div align="center">
-  <img src="https://parentpeak.com/assets/app-icon.png" width="80" alt="Parentpeak">
-</div>
+# F. Aram Bucak
 
-# Hey, ich bin F. Aram Bucak 👋
+**Entwickler hinter Serkowla · Websites, Web-Apps und mobile Apps · Berlin**
 
-**Product Engineer** — ich baue Software die Menschen im Alltag hilft.
+Ich entwickle digitale Produkte, die komplexe Aufgaben einfacher machen.
+Mit **Serkowla** verbinde ich individuelle Web- und App-Entwicklung mit eigenen
+Produktideen – vom Familienalltag über Wohnungstausch bis zum Spieleabend.
 
-Aktuell arbeite ich an **[Parentpeak](https://parentpeak.com)** — einer Familien-App für Eltern die alles geben und selbst Halt brauchen. Full-Stack, solo, von der Idee bis zum Deploy.
-
----
-
-### 🚀 Parentpeak — Das Projekt
-
-> *Nicht perfekt sein müssen. Einfach da sein.*
-
-Eine App die Familienalltag vereinfacht: KI-Elternberatung, Events, Verschenkmarkt, Kalender, Rezepte, Netzwerk. Pädagogisch fundiert, datenschutzfreundlich, in 28 Sprachen.
-
-| Metrik | |
-|--------|---|
-| Plattformen | iOS, Android, macOS, Web |
-| Sprachen | 28 (DE, EN, TR, KU, ...) |
-| KI-Ansätze | 8 pädagogische Frameworks |
-| CI Pipelines | 4 (Analyze, Deploy, Keep-Alive, AI-Check) |
-| Status | 🟢 Live Beta |
-
-[![Flutter Analyze](https://github.com/arambucak/Parentpeak/actions/workflows/flutter-analyze.yml/badge.svg)](https://github.com/arambucak/Parentpeak/actions/workflows/flutter-analyze.yml)
-[![Deploy Web](https://github.com/arambucak/Parentpeak/actions/workflows/deploy-web-pages.yml/badge.svg)](https://parentpeak.de)
+[Serkowla besuchen](https://serkowla.com) · [Projekt besprechen](mailto:info@serkowla.com)
 
 ---
 
-### 🛠 Stack
+## Eigene Produkte
 
-```
-Frontend    Flutter (Dart) · iOS · Android · macOS · Web
-Backend     Node.js · Express · Prisma · PostgreSQL
-AI          Google Gemini (pädagogischer System-Prompt)
-Auth        Firebase Authentication
-Monitoring  Firebase Crashlytics
-CI/CD       GitHub Actions (4 Workflows)
-Hosting     Render (API) · GitHub Pages (Web)
-```
+### ParentPeak — mehr Überblick im Familienalltag
+
+Eine Familien-App, die KI-Elternberatung, Kalender, altersgerechte Rezepte,
+Events, Verschenkmarkt und Eltern-Netzwerk an einem Ort bündelt.
+Bedürfnisorientiert, mit Entwicklungs-Impulsen und einem Leistungswegweiser
+für Familien.
+
+**Technik:** Flutter / Dart · Node.js / Express · Prisma / PostgreSQL · Firebase
+
+[Produktwebsite](https://www.parentpeak.com) · [Öffentliches Repository](https://github.com/arambucak/Parentpeak)
+
+### movemal — Wohnungstausch, der für beide passt
+
+Wohnungen per Swipe entdecken. Ein Match entsteht nur, wenn beide Seiten
+Interesse haben und die jeweiligen Suchwünsche zusammenpassen.
+Ein Tausch-Score hilft bei der Orientierung; nach dem Match lassen sich
+Besichtigung, Zeitraum und Vermieterzustimmung im Chat klären.
+
+**Schwerpunkte:** Beidseitiges Matching · Wohnungssuche · Nutzerführung
+
+Der Quellcode bleibt privat. Eine öffentliche Produkt- oder Downloadadresse
+ist hier noch nicht hinterlegt.
+
+### Flip Counter — weniger rechnen, mehr spielen
+
+Ein inoffizieller Punktezähler für Flip 7. Runden lassen sich durch Antippen
+der Karten oder durch direkte Eingabe erfassen. Die App arbeitet vollständig
+offline, merkt sich laufende Partien und unterstützt Deutsch und Englisch.
+Ergebnisse können als Bild über das native Teilen-Menü weitergegeben werden.
+
+**Technik:** React Native / Expo · TypeScript · AsyncStorage · Getestete Wertungslogik
+
+Der App-Quellcode bleibt privat. Ein öffentlicher Downloadlink ist hier noch
+nicht hinterlegt.
+
+*Unabhängige Fan-App ohne offizielle Verbindung zum Verlag. Flip 7 ist ein
+Produkt von The Op.*
+
+### Trade of Kurdistan — Struktur statt Signal-Rauschen
+
+Ein Analyse-Dashboard für Krypto-Futures mit Multi-Timeframe-Konfluenz,
+Live-Charts, Risikoplanung und Trading-Journal. Im Mittelpunkt steht die
+Übereinstimmung von Trend, Zone und Trigger – nicht eine möglichst große
+Anzahl von Signalen.
+
+**Schwerpunkte:** Binance-WebSocket · Marktvisualisierung · Positionsplanung · Journal
+
+Der Quellcode bleibt privat. Eine öffentliche Produktadresse ist hier noch
+nicht hinterlegt.
+
+*Ein Analysewerkzeug, keine Anlageberatung und kein Renditeversprechen.
+Der Handel mit Krypto-Futures kann zum vollständigen Verlust des eingesetzten
+Kapitals führen.*
 
 ---
 
-### 📌 Repositories
+## Websites & öffentliche Repositories
 
-| Projekt | Beschreibung | Links |
-|---------|-------------|-------|
-| **[Parentpeak](https://github.com/arambucak/Parentpeak)** | Flutter Family App — Full Stack | [Web-App](https://parentpeak.de) |
-| **[parentpeak-website](https://github.com/arambucak/parentpeak-website)** | Landing Page & Marketing | [parentpeak.com](https://parentpeak.com) |
+| Projekt | Inhalt | Links |
+| --- | --- | --- |
+| **Serkowla** | Studio-Website und Überblick über meine Arbeit | [Website](https://serkowla.com) · [Code](https://github.com/arambucak/serkowla-website) |
+| **ParentPeak** | Familien-App mit Flutter und Node.js-Backend | [Produktwebsite](https://www.parentpeak.com) · [Code](https://github.com/arambucak/Parentpeak) |
+| **ParentPeak Website** | Die zugehörige Marketing-Website | [Website](https://www.parentpeak.com) · [Code](https://github.com/arambucak/parentpeak-website) |
 
----
+Die Vorstellung eines Produkts bedeutet nicht, dass es bereits in App-Stores
+verfügbar ist. Private Produkt-Repositories werden hier bewusst nicht verlinkt.
+Öffentlich sichtbarer Quellcode ist außerdem nicht automatisch zur freien
+Nutzung lizenziert; maßgeblich sind die Hinweise im jeweiligen Repository.
 
-### 🎯 Engineering-Prinzipien
+## Wie ich arbeite
 
-- **Ship small, verify continuously** — Kleine Releases, automatisierte Checks
-- **Privacy as a product requirement** — Datenschutz ist kein Afterthought
-- **Clear workflows over feature complexity** — Einfachheit gewinnt
+- **Vom Problem zum Produkt:** Erst den Alltag und die Nutzer verstehen,
+  dann die passende Lösung entwickeln.
+- **Klare Nutzerführung:** Verständliche Abläufe statt unnötiger Komplexität.
+- **Kleine Schritte, überprüfbare Ergebnisse:** Änderungen gezielt testen
+  und automatisierte Prüfungen nutzen.
+- **Datensparsamkeit mitdenken:** Datenverarbeitung bewusst gestalten und
+  unnötige Abhängigkeiten vermeiden.
 
----
+## Kontakt
 
-### 📫 Kontakt
+Eine Website für dein Unternehmen oder eine eigene App-Idee?
 
-[parentpeak.com](https://parentpeak.com) · [Instagram @parentpeak.app](https://instagram.com/parentpeak.app) · [support@parentpeak.com](mailto:support@parentpeak.com)
-
----
-
-<div align="center">
-  <sub>Built with conviction — for families who give everything.</sub>
-</div>
+**[info@serkowla.com](mailto:info@serkowla.com)** · **[serkowla.com](https://serkowla.com)**
